@@ -3,13 +3,6 @@
 **A soft, themed calendar with a little AI friend who plans your life with you.**
 Text it "dentist tomorrow 3pm" and it's on your calendar. Tell it you're stressed and it suggests a matcha afternoon with your top 3 friends. Switch to Exam, Work or Vacation mode and the whole app rearranges itself around what you're doing.
 
-![Deploy](https://github.com/YOUR-USERNAME/mochi-calendar/actions/workflows/pages.yml/badge.svg)
-![PWA](https://img.shields.io/badge/PWA-installable-5A8530)
-![No build step](https://img.shields.io/badge/build-none-lightgrey)
-![License](https://img.shields.io/badge/license-MIT-blue)
-
-**Live demo:** `https://YOUR-USERNAME.github.io/mochi-calendar/`
-
 > **Status: working prototype.** The calendar, chat commands, modes, moods, Discover board and holiday planner all run in the browser today. Cross-device sync, real Claude-powered chat and Google Calendar sync are on the roadmap below and are **not built yet**.
 
 ---
